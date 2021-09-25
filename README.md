@@ -1,4 +1,4 @@
-# MyReads
+# The Bookshelf
 My books, classified into shelves. Keep track of your current reads, what you want to read and what you have already read by placing books in to their respective shelves.
 
 ## Features
