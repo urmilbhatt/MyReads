@@ -1,4 +1,4 @@
-# myReads react fend
+# MyReads
 My books, classified into shelves. A Udacity Front-end Nanodegree React project
 
 ## Features
@@ -28,17 +28,4 @@ To use this app simply:
 + You are all set up and ready to play around with it.
 
 ![image](https://user-images.githubusercontent.com/29199184/43993662-6f32b76a-9d91-11e8-9e25-56fd56e4f0a2.png)
-
-## Acknowledgements
-
-Huge thanks to 
-[maevanapcontact](https://github.com/maevanapcontact/fend-my-reads),
-[BycorSanchez](https://github.com/BycorSanchez/my-reads),
-[sagarchoudhary96](https://github.com/sagarchoudhary96/My-Reads),
-[lcnogueira](https://github.com/lcnogueira/react-my-reads-project),
-And especially [elena-in-code](https://github.com/elena-in-code/My-Reads) for sharing her understanding of React.
-for the ideas, inspiration, and help to resolve problems and improve my code.
-
 ____
-
-Udacity's starter code for this project: [https://github.com/udacity/reactnd-project-myreads-starter](https://github.com/udacity/reactnd-project-myreads-starter)
